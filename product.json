@@ -1,0 +1,46 @@
+{
+products: [
+{
+prod_srno: "1",
+prod_name: "LG P880 4X HD",
+prod_price: "336",
+prod_lotno: "3",
+Prod_added_datetime: "2018-06-01 01:12:26"
+},
+{
+prod_srno: "2",
+prod_name: "Google Nexus 4",
+prod_price: "299",
+prod_lotno: "2",
+Prod_added_datetime: "2018-06-05 01:12:26"
+},
+{
+prod_srno: "3",
+prod_name: "Samsung Galaxy S4",
+prod_price: "600",
+prod_lotno: "3",
+Prod_added_datetime: "2018-06-01 01:12:26"
+},
+{
+prod_srno: "4",
+prod_name: "Bench Shirt",
+prod_price: "299",
+prod_lotno: "1",
+Prod_added_datetime: "2018-06-01 04:12:26"
+},
+{
+prod_srno: "5",
+prod_name: "Lenovo Laptop",
+prod_price: "399",
+prod_lotno: "2",
+Prod_added_datetime: "2018-06-03 01:13:45"
+},
+{
+prod_srno: "6",
+prod_name: "Samsung Galaxy",
+prod_price: "259",
+prod_lotno: "2",
+Prod_added_datetime: "2018-06-02 01:14:13"
+}
+]
+}
